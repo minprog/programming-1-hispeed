@@ -129,7 +129,7 @@ A schedule of problem sets, subject to change, appears below.
 
 | problem set   | language | due     |  
 | ------------- | -------- | ------- |  
-| Problem Set 0 | Scratch  | 5-Sept  |  
+| Problem Set 0 | Scratch  | 6-Sept  |  
 | Problem Set 1 | C        | 9-Sept  |  
 | Problem Set 2 | C        | 16-Sept |  
 | Problem Set 3 | C        | 23-Sept |  
