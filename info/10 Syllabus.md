@@ -127,13 +127,13 @@ Five problem sets are assigned during the course. Each is due by a pre-set deadl
 
 A schedule of problem sets, subject to change, appears below.
 
-| problem set   | language | due     |  
-| ------------- | -------- | ------- |  
-| Problem Set 0 | Scratch  | 6-Sept  |  
-| Problem Set 1 | C        | 9-Sept  |  
-| Problem Set 2 | C        | 16-Sept |  
-| Problem Set 3 | C        | 23-Sept |  
-| Problem Set 4 | C        | 30-Sept |  
+| problem set   | language | due              |  
+| ------------- | -------- | ---------------- |  
+| Problem Set 0 | Scratch  | 6-Sept at 23:59  |  
+| Problem Set 1 | C        | 9-Sept at 23:59  |  
+| Problem Set 2 | C        | 16-Sept at 23:59 |  
+| Problem Set 3 | C        | 23-Sept at 23:59 |  
+| Problem Set 4 | C        | 30-Sept at 23:59 |  
 
 In order to accommodate students with different backgrounds, some problem sets are released in two editions: a standard edition intended for most students and a "Hacker Edition" intended for some students. Both editions essentially cover the same material. But the Hacker Edition typically presents that material from a more technical angle and poses more sophisticated questions. Hacker Editions are graded separately from standard editions, but those students who submit the former do not receive any form of extra credit outright. When determining grades at term's end, however, we do bear in mind submissions of Hacker Editions.
 
