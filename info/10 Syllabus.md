@@ -123,7 +123,7 @@ or in particularly small groups. To arrange, contact the course's heads.
 
 ## Problem Sets
 
-Five problem sets are assigned during the course. Each is due by a pre-set deadline: Friday, at noon. Lateness of electronic submissions is determined down to the minute by submissions' timestamps. Submitting more than seven minutes late is equivalent to submitting twenty-four hours late. Late work is not ordinarily accepted, except in cases of medical emergency.
+Five problem sets are assigned during the course. Each is due by a pre-set deadline: Friday, just before midnight. Lateness of electronic submissions is determined down to the minute by submissions' timestamps. Submitting more than seven minutes late is equivalent to submitting twenty-four hours late. Late work is not ordinarily accepted, except in cases of medical emergency.
 
 A schedule of problem sets, subject to change, appears below.
 
