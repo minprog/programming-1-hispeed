@@ -16,11 +16,17 @@ Week 2:
     'Lecture 3 Mon': '/lectures/week-3-mon'
     'Problem set 2: Crypto': '/psets/crypto'
     'Style guide': '/resources/style-guide'
+    '---1': '---'
+    'Lecture 3 Wed [voor volgende week]': '/lectures/week-3-wed'
+    'Lecture 4 Mon [voor volgende week]': '/lectures/week-4-mon'
 Week 3:
     'Lecture 3 Wed': '/lectures/week-3-wed'
     'Lecture 4 Mon': '/lectures/week-4-mon'
     'Problem set 3: Fifteen': '/psets/fifteen'
     'Style guide': '/resources/style-guide'
+    '---1': '---'
+    'Lecture 4 Wed': '/lectures/week-4-wed'
+    'Lecture 5 Mon': '/lectures/week-5-mon'
 Week 4:
     'Quiz preparations!': '/resources/quiz'
     '---': '---'
