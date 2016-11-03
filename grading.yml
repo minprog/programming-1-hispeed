@@ -50,11 +50,11 @@ grades:
         type: pass
         subgrades:
             points: integer
-        calculation: (scope >= 23 ? -1 : 0)
     resit:
         type: pass
         subgrades:
             points: integer
+        calculation: points >= 31 && -1 || 0
 
 calculation:
     resit:
