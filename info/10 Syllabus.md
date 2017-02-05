@@ -25,7 +25,7 @@ Joëlle Zweekhorst
 Marijn Jansen  
 Wietze Slagman
 
-Have a question? Send us a message by using the "Ask" menu, above, during office hours.
+Need some help programming? Send us a message by using the "Ask" menu, above, during office hours.
 
 ## Expectations
 
