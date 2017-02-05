@@ -1,8 +1,8 @@
 # Fulltime Programmeren 1<br><span class="small">Studiewijzer / Syllabus</span>
 
-*Edition: Hi-speed, Fall 2016*
+*Edition: hi-speed, Spring 2017*
 
-Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
+Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for majors and non-majors alike, with or without prior programming experience.
 
 This course is the first part of a two-course series aimed at students with
 *little or no prior programming experience* but a desire to understand
@@ -10,26 +10,27 @@ computational approaches to problem solving.
 
 ## Staff
 
-The course's staff is your instructor and many teaching assistants.
-You are encouraged to speak to an assistant or the instructor at the lab. Do you have a question from home? Feel free to send an e-mail to <help@mprog.nl>.
+The course's staff is your instructor and many lab assistants.
+You are encouraged to speak to any of the staff at the lab. Do you have a question in writing? Feel free to send an e-mail to <help@mprog.nl>.
 
 Martijn Stegeman  
-*instructor*  
+*examiner*  
 mail: <m.stegeman@uva.nl>
 
-Hella Haanstra  
-*head TA*
-
-Wouter Vrielink  
-*head TA*
+Hella Haanstra (head)
+Wouter Vrielink (head)
+Bas Chatel
+Edwin Steffens
+Joëlle Zweekhorst
+Marijn Jansen
+Wietze Slagman
 
 Have a question? Send us a message by using the "Ask" menu, above. You can use it from home, or during office hours.
 
 ## Expectations
 
 You are expected to watch all lectures, attend all sections, submit five
-problem sets, and take a quiz. You are also expected to attend some amount
-of lab sessions in order to get you moving quickly through the course.
+problem sets, and take a quiz. You are also expected to attend the daily lab sessions in order to get you moving quickly through the course.
 
 ## Grades
 
@@ -39,8 +40,7 @@ writing by the course's heads.
 
 Problem sets are evaluated primarily along axes of scope,
 correctness, design, and style, with scores ordinarily determined by scope × (3
-× correctness + 2 × design + 1 × style). Scope is all-important: we
-strive for you to at least try every aspect of each problem set. Mid-semester
+× correctness + 2 × design + 1 × style). Mid-semester
 comparisons among students of scores are not reliable indicators of standing.
 
 Although you must submit all problem sets, your lowest score among those
@@ -63,8 +63,8 @@ fellows. Remarkable effort and upward trending are always considered.
 ## Books
 
 No books are required for this course. However, we do have a number of books
-available for you to use in the lab. You are welcome to pick up one of
-these and read them as a preparation for or review of one of the lectures. If one seeks additional reference, here are some good suggestions:
+available for you to use in the lab. You are welcome take one of
+those and read them as a preparation for or review of one of the lectures. If one seeks additional reference, here are some suggestions:
 
 *For Those Less Comfortable*
 
@@ -112,7 +112,7 @@ Embedded into problem sets are "walkthroughs," videos via which the course's sta
 ## Office Hours
 
 Office hours are opportunities for assistance with problem sets alongside the
-course's teaching assistants. Office hours ordinarily take place on weekdays, based on group schedules.
+course's teaching assistants. Office hours ordinarily take place on weekdays.
 
 ## Tutoring
 
@@ -129,70 +129,90 @@ A schedule of problem sets, subject to change, appears below.
 
 | problem set   | language | due              |  
 | ------------- | -------- | ---------------- |  
-| Problem Set 0 | Scratch  | 6-Sept at 23:59  |  
-| Problem Set 1 | C        | 9-Sept at 23:59  |  
-| Problem Set 2 | C        | 16-Sept at 23:59 |  
-| Problem Set 3 | C        | 23-Sept at 23:59 |  
-| Problem Set 4 | C        | 30-Sept at 23:59 |  
+| Problem Set 0 | Scratch  | 6-Feb at 23:59  |  
+| Problem Set 1 | C        | 10-Feb at 23:59  |  
+| Problem Set 2 | C        | 17-Feb at 23:59 |  
+| Problem Set 3 | C        | 24-Feb at 23:59 |  
+| Problem Set 4 | C        | 3-Mar at 23:59 |  
 
-In order to accommodate students with different backgrounds, some problem sets are released in two editions: a standard edition intended for most students and a "Hacker Edition" intended for some students. Both editions essentially cover the same material. But the Hacker Edition typically presents that material from a more technical angle and poses more sophisticated questions. Hacker Editions are graded separately from standard editions, but those students who submit the former do not receive any form of extra credit outright. When determining grades at term's end, however, we do bear in mind submissions of Hacker Editions.
+Re-submission of problem sets is not possible until the following semester. If you re-submit any problem set for a second time, we require that it is complete and bug-free, so as to not burden the staff with grading. It has shown to be vital to engage with all problem sets in order to pass this course.
 
-To be clear, we encourage most students (including aspiring computer scientists) to tackle the standard editions. However, you may choose, week to week, which edition to submit. You may not submit both or some amalgam of the two.
+## Test
 
-Although you must submit all five problem sets, your lowest score among those problem sets on which you received a perfect score for the axis of scope will be dropped when final grades are determined.
-
-Re-submission of problem sets is not possible until the following semester.
+The course has one 60-minute test, covering weeks 0 to 2 and intending to check up on your progress in the course. The test does not need to be passed in order to pass the course.
 
 ## Quiz
 
-The course has one 75-minute quiz. It is "closed-book," but you may utilize during each quiz one two-sided page (A4) of notes, typed or written, and a pen or pencil, nothing else.
+The course has one 90-minute quiz. It is "closed-book," meaning that you are allowed as attributes a pen or pencil, and nothing else. One resit is offered, as soon as one (1) week after the quiz.
 
-One retake of the quiz is offered, but not neccessarily in time for follow-up courses.
+## Doing your own work
 
-## Collaboration
+This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
-All work that you do toward fulfillment of this course's expectations must be
-your own unless collaboration is explicitly allowed in writing by the course's
-instructor. Collaboration in the completion of problem sets is not permitted
-unless otherwise stated by some problem set's specification.
+The essence of all work that you submit to this course must be your own. Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code to others, but you may not view theirs, so long as you and they respect this policy's other constraints. Collaboration on the course's test and quiz is not permitted at all.
 
-Viewing or copying another individual's work (even if left by a printer, stored
-in an executable directory, or posted online) or lifting material from a book,
-website, or other source—even in part—and presenting it as your own constitutes
-academic dishonesty, as does showing or giving your work, even in part, to
-another student or soliciting the work of another individual. Similarly is dual
-submission academic dishonesty: you may not submit the same or similar work to
-this course that you have submitted or will submit to another. Nor may you
-provide or make available solutions to problem sets to individuals who take or
-may take this course in the future. Moreover, submission of any work that you
-intend to use outside of the course (e.g., for a job) must be approved by the
-course's instructor.
+Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. If in doubt as to whether some act is reasonable, do not commit it until you solicit and receive approval in writing from the course's heads. Acts considered not reasonable by the course are handled harshly.
 
-You are welcome to discuss the course's material with others in order to better
-understand it. You may even discuss problem sets with classmates, but you may
-not share code. In other words, you may communicate with classmates in English,
-but you may not communicate in, say, C. If in doubt as to the appropriateness
-of some discussion, contact the course's instructor.
+If you commit some act that is not reasonable but bring it to the attention of the course's heads within 72 hours, the course may impose local sanctions that may include an unsatisfactory or failing grade for work submitted, but the course will not refer the matter for further disciplinary action except in cases of repeated acts.
 
-## Quoting sources
+### Reasonable
 
-You may turn to the Web for instruction beyond the course's lectures and
-sections, for references, and for solutions to technical difficulties, but not
-for outright solutions to problems on problem sets or your own final project.
-However, failure to cite (as with comments) the origin of any code or technique
-that you do discover outside of the course's lectures and sections (even while
-respecting these constraints) and then integrate into your own work may be
-considered academic dishonesty.
+- Communicating with classmates about problem sets' problems in English (or some other spoken language).
 
-## Regulations
+- Discussing the course's material with others in order to understand it better.
 
-All forms of academic dishonesty are dealt with harshly. If the course refers
-some matter to the Examination Board, the course reserves the right to impose
-local sanctions on top of that outcome for that student that may include, but
-not be limited to, a failing grade for work submitted or for the course itself.
+- Helping a classmate identify a bug in his or her code at office hours, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
+
+- Incorporating a few lines of code that you find online or elsewhere into your own code, provided that those lines are not themselves solutions to assigned problems and that you cite the lines' origins.
+
+- Reviewing past semesters' quizzes and solutions thereto.
+
+- Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
+
+- Sharing a few lines of your own code online so that others might help you identify and fix a bug.
+
+- Turning to the course's heads for help or receiving help from the course's heads during the quiz or test.
+
+- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problem set's problems or your own final project.
+
+- Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
+
+- Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
+
+### Not Reasonable
+
+- Accessing a solution to some problem prior to (re-)submitting your own.
+
+- Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
+
+- Decompiling, deobfuscating, or disassembling the staff's solutions to problem sets.
+
+- Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
+
+- Giving or showing to a classmate a solution to a problem set's problem when it is he or she, and not you, who is struggling to solve it.
+
+- Looking at another individual's work during the test or quiz.
+
+- Paying or offering to pay an individual for work that you may submit as (part of) your own.
+
+- Providing or making available solutions to problem sets to individuals who might take this course in the future.
+
+- Searching for or soliciting outright solutions to problem sets online or elsewhere.
+
+- Splitting a problem set's workload with another individual and combining your work.
+
+- Submitting (after possibly modifying) the work of another individual beyond the few lines allowed herein.
+
+- Submitting the same or similar work to this course that you have submitted or will submit to another.
+
+- Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval from the course's heads.
+
+- Turning to humans (besides the course's heads) for help or receiving help from humans (besides the course's heads) during the quiz or test.
+
+- Viewing another's solution to a problem set's problem and basing your own solution on it.
 
 In all cases we follow the directives regarding fraud and plagiarism of the
-University of Amsterdam and of the examination board of the Computer Science
+University of Amsterdam and of the Computer Science
 BSc programme. Find them here in [English] and [Dutch].
 
 [Dutch]: http://uva.nl/plagiaat
