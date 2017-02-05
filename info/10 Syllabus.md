@@ -17,12 +17,12 @@ Martijn Stegeman
 *examiner*  
 mail: <m.stegeman@uva.nl>
 
-Hella Haanstra (head)
-Wouter Vrielink (head)
-Bas Chatel
-Edwin Steffens
-Joëlle Zweekhorst
-Marijn Jansen
+Hella Haanstra (head)  
+Wouter Vrielink (head)  
+Bas Chatel  
+Edwin Steffens  
+Joëlle Zweekhorst  
+Marijn Jansen  
 Wietze Slagman
 
 Have a question? Send us a message by using the "Ask" menu, above. You can use it from home, or during office hours.
