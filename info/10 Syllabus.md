@@ -127,13 +127,13 @@ Five problem sets are assigned during the course. Each is due by a pre-set deadl
 
 A schedule of problem sets, subject to change, appears below.
 
-| problem set   | language | due              |  
-| ------------- | -------- | ---------------- |  
+| problem set   | language | due             |  
+| ------------- | -------- | --------------- |  
 | Problem Set 0 | Scratch  | 6-Feb at 23:59  |  
-| Problem Set 1 | C        | 10-Feb at 23:59  |  
+| Problem Set 1 | C        | 10-Feb at 23:59 |  
 | Problem Set 2 | C        | 17-Feb at 23:59 |  
 | Problem Set 3 | C        | 24-Feb at 23:59 |  
-| Problem Set 4 | C        | 3-Mar at 23:59 |  
+| Problem Set 4 | C        | 3-Mar at 23:59  |  
 
 Re-submission of problem sets is not possible until the following semester. If you re-submit any problem set for a second time, we require that it is complete and bug-free, so as to not burden the staff with grading. It has shown to be vital to engage with all problem sets in order to pass this course.
 
