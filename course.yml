@@ -1,12 +1,11 @@
 course:
     title: Programmeren 1 HISPEED
-    short: Programmeren 1 HI
-    submit: Prog1H17S
+    short: Prog1H
+    submit: Prog1H17F
     mail: help@mprog.nl
 
 ask:
     hands: true
-    slack: '#cs50_hispeed_hands'
 
 acknowledgements:
     - 'Based on CS50 from http://cs50.tv/2016/fall/ -- Copyright 2011--2017, David J. Malan.'

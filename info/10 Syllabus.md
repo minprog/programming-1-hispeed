@@ -1,12 +1,6 @@
-# Fulltime Programmeren 1<br><span class="small">Studiewijzer / Syllabus</span>
-
-*Edition: hi-speed, Spring 2017*
+# Fulltime Programmeren 1 <small>Syllabus --- Fall 2017</small>
 
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for majors and non-majors alike, with or without prior programming experience.
-
-This course is the first part of a two-course series aimed at students with
-*little or no prior programming experience* but a desire to understand
-computational approaches to problem solving.
 
 ## Staff
 
@@ -14,18 +8,13 @@ The course's staff is your instructor and many lab assistants.
 You are encouraged to speak to any of the staff at the lab. Do you have a question in writing? Feel free to send an e-mail to <help@mprog.nl>.
 
 Martijn Stegeman  
-*examiner*  
+*instructor*  
 mail: <m.stegeman@uva.nl>
 
-Hella Haanstra (head)  
-Wouter Vrielink (head)  
-Bas Chatel  
-Edwin Steffens  
-Joëlle Zweekhorst  
-Marijn Jansen  
-Wietze Slagman
+Hella Haanstra (head teaching assistant)  
+Tim Meijer
 
-Need some help programming? Send us a message by using the "Ask" menu, above, during office hours.
+Need help? Send us a message by using the "Ask" menu, above, during office hours.
 
 ## Expectations
 
@@ -62,9 +51,7 @@ fellows. Remarkable effort and upward trending are always considered.
 
 ## Books
 
-No books are required for this course. However, we do have a number of books
-available for you to use in the lab. You are welcome take one of
-those and read them as a preparation for or review of one of the lectures. If one seeks additional reference, here are some suggestions:
+No books are required for this course. If one seeks additional reference, here are some suggestions:
 
 *For Those Less Comfortable*
 
